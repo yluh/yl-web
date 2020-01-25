@@ -34,3 +34,29 @@ Push your commit to remote server, github
 
 Check your commit history
 ![](img/history.png)
+
+
+
+### GitHub Desktop More
+Add a test commit
+![](img/test_commit.png)
+
+Push origin
+![](img/push_origin2.png)
+
+Change branch to master
+![](img/change_branch_to_master.png)
+
+Current branch master
+![](img/current_branch_master.png)
+
+Merge develop changes into master
+![](img/merge_into_develop_branch_to_master.png)
+
+![](img/merge_into_master.png)
+
+master branch has develop changes now.
+![](img/master_branch_has_develop_changes.png)
+
+Push master branch to remote
+![](img/push_master_branch_to_remote.png)
