@@ -1,8 +1,8 @@
-[yl-web](https://github.com/yluh/yl-web#yl-web)
-[Download](https://github.com/yluh/yl-web#download)
-[git commands](https://github.com/yluh/yl-web#git-commands)
-[Basic GitHub Desktop](https://github.com/yluh/yl-web#basic-github-desktop)
-[GitHub Desktop More](https://github.com/yluh/yl-web#github-desktop-more)
+- [yl-web](https://github.com/yluh/yl-web#yl-web)
+- [Download](https://github.com/yluh/yl-web#download)
+- [git commands](https://github.com/yluh/yl-web#git-commands)
+- [Basic GitHub Desktop](https://github.com/yluh/yl-web#basic-github-desktop)
+- [GitHub Desktop More](https://github.com/yluh/yl-web#github-desktop-more)
 
 # yl-web
 GitHub https://github.com/yluh/yl-web
